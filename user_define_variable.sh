@@ -1,9 +1,7 @@
 #!/bin/bash      
-#title           :
-#description     :
-#author		     :myLANDMARK.tech S Legah
 
-echo "SHELL is: " $SHELL
-echo "BASH_VERSION is: " $BASH_VERSION
-echo 'HISTSIZE is: '$HISTSIZE
-echo 'SSH_CLIENT is: '$SSH_CLIENT
+name="Simon Legah"
+id=08112012
+
+echo "The name varibale value is: "$name
+echo "The id variable value is: "$id
