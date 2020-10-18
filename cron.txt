@@ -1,0 +1,6 @@
+*/2 * * * * /home/devops/scripts/date.sh > /home/devops/scripts/date.log 2>&1
+
+tee
+ll | tee ab.txt
+ll > ll.txt
+script
